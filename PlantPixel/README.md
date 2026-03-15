@@ -245,11 +245,7 @@ run_comprehensive_validation()
 5. Push to branch (`git push origin feature/enhancement`)
 6. Create Pull Request
 
-## 👨‍💻 Author
 
-**Shreya Shen**
-- GitHub: [@shreya-shen](https://github.com/shreya-shen)
-- Project: [PlantPixel](https://github.com/shreya-shen/PlantPixel)
 
 ---
 
