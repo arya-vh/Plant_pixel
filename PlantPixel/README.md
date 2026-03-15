@@ -6,6 +6,21 @@
 [![TypeScript](https://img.shields.io/badge/Frontend-React%2FTS-blue)](./frontend/)
 [![Python](https://img.shields.io/badge/Backend-Flask%2FPython-blue)](./backend/)
 
+## 📋 Table of Contents
+- [Overview](#overview)
+- [Key Features](#-key-features)
+- [Technical Architecture](#technical-architecture)
+- [Verified Performance Metrics](#verified-performance-metrics)
+- [Project Structure](#project-structure)
+- [Installation & Setup](#installation--setup)
+- [Algorithm Details](#-algorithm-details)
+- [API Endpoints](#api-endpoints)
+- [Industry Recognition](#industry-recognition)
+- [Development Tools](#-development-tools)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [Author](#-author)
+
 ## Overview
 
 PlantPixel is an advanced computer vision platform that revolutionizes plant growth monitoring through automated image analysis. The system processes comparative plant imagery to generate comprehensive growth metrics with **93.64% accuracy** in just **0.114 seconds**, enabling precision agriculture and data-driven plant care decisions.
